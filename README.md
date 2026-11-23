@@ -107,19 +107,19 @@ NYC_Airbnb_EDA/
 
 ## Key Insights
 
-💡 **Spatial Segmentation:**
+- **Spatial Segmentation:**
 Manhattan and Brooklyn dominate both in listing count and average price, forming the premium tier of the Airbnb ecosystem.
 
-💡 **Price Hierarchy:**
+- **Price Hierarchy:**
 “Entire home/apartment” listings exhibit substantially higher mean prices than private or shared rooms.
 
-💡 **Demand Dynamics:**
+- **Demand Dynamics:**
 Listings with more reviews are generally lower-priced, reflecting higher guest turnover.
 
-💡 **Availability Patterns:**
+- **Availability Patterns:**
 High-priced listings display lower annual availability, implying higher occupancy or controlled seasonal listing behavior.
 
-💡 **Weak Numeric Correlations:**
+- **Weak Numeric Correlations:**
 Most numeric features (reviews, availability, minimum nights) have low collinearity, indicating orthogonal market features primarily shaped by categorical dimensions.
 
 ---
@@ -134,10 +134,8 @@ The platform exhibits classical microeconomic features of **price–demand elast
 
 ## Author
 
-**Aditya (@Aditya-907)**
+**Aditya (@ad1tya-io)**
 
 Email - adityasinght970@gmail.com
-
-**“Busy trying my best.”**
 
 ---
